@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="30dp"
+    android:paddingTop="100dp"
     >
 
     <EditText
@@ -30,7 +31,7 @@
 
     <Button
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="20dp"
         android:id="@+id/forgetpassword"
         android:text="Forget Password?"
         android:textSize="10dp"

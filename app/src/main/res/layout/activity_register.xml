@@ -5,23 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    >
+    android:paddingTop="100dp">
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="70dp"
-        >
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/title_registration"
-        android:text="Registration"
-        android:textColor="#000000"
-        android:gravity="center"
-        android:textSize="25dp"
-        android:background="@drawable/text_view"
-        />
-    </RelativeLayout>
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
